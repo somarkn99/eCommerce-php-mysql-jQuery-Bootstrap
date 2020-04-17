@@ -1,2 +1,10 @@
-# Ecommerce-php-mysql
-Ecommerce website with php and mysql
+# eCommerce-php-mysql-jQuery-Bootstrap
+
+eCommerce Shop
+
+Coding with :
+php - mysql - jQuery - Bootstrap
+
+
+
+Coding with ❤
