@@ -1,5 +1,8 @@
 <?php
-include "includes/templates/header.php" ;?>
+include "init.php";
+include $tpl.'header.php';
+
+?>
 
 
-<?php include "includes/templates/footer.php" ;?>
+<?php include $tpl.'footer.php' ;?>

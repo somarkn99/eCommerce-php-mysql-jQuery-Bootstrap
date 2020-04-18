@@ -1,7 +1,13 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Somar Kesen
- * Date: 18/04/2020
- * Time: 11:25 م
- */
+
+
+//Routes
+
+$tpl = 'includes/templates/';    //Template Path
+$css = 'layout/css/';  //CSS Path
+$js = 'layout/js/';  //Java Script Path
+
+
+echo $tpl;
+
+?>
